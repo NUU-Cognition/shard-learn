@@ -6,11 +6,12 @@
 ---
 id: [generate-uuid]
 tags:
-  - "#learning-report"
   - "#lrn/learning_report"
 status: [draft|active|archived]
 date-created: [YYYY-MM-DD]
-template: tmp-lrn-learning_report
+template: "[[dev-tmp-lrn-learning_report-v0.1]]"
+authors: /* from .flint/identity.json; omit if no identity set */
+  - "[[@Person Name]]"
 ---
 
 # [Concept Name] Explained

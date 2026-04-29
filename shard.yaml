@@ -1,13 +1,19 @@
 shard-spec: "0.1.0"
-version: "0.1.0"
+version: "0.2.0"
 name: Learn
 shorthand: lrn
 description: Pedagogically optimized educational content for teaching concepts
+dependencies:
+  - source: NUU-Cognition/shard-flint
+
+types:
+  - name: Learning Report
+    source: type-lrn-learn.md
 
 install:
   - source: inst-lrn-dashboard.md
     dest: Mesh/(Dashboard) Learn.md
-    once: true
+    mode: once
 
 folders:
   - Mesh/Types/Learn/

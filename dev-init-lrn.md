@@ -48,19 +48,20 @@ Each learning report follows a strict structure that builds understanding increm
 
 | Template | File | Purpose |
 |----------|------|---------|
-| Learning Report | `tmp-lrn-learning_report.md` | Full educational document |
+| Learning Report | `dev-tmp-lrn-learning_report.md` | Full educational document |
 
 ## Skills
 
 | Skill | File | Purpose |
 |-------|------|---------|
-| Create | `sk-lrn-create.md` | Create a new learning report |
+| Create | `dev-sk-lrn-create.md` | Create a new learning report |
+| Visual Explain | `dev-sk-lrn-visual_explain.md` | Generate a visual explainer using Mermaid diagrams, callouts, and tables |
 
 ## Workflows
 
 | Workflow | File | Purpose |
 |----------|------|---------|
-| Research and Write | `wkfl-lrn-research_and_write.md` | Full creation workflow with research phase |
+| Research and Write | `dev-wkfl-lrn-research_and_write.md` | Full creation workflow with research phase |
 
 ## Quality Checklist
 
