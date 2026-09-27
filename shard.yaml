@@ -1,6 +1,6 @@
-shard-spec: "0.3.0"
+shard-spec: "0.4.0"
+shard: "@nuucognition/learn"
 id: 9751a039-cbd8-4170-8806-d4a02f627591
-org: nuucognition
 source:
   id: 37e216be-2247-47c3-9b6c-fc3a3c95386d
 version: "0.2.2"
