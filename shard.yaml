@@ -3,12 +3,12 @@ shard: "@nuucognition/learn"
 id: 9751a039-cbd8-4170-8806-d4a02f627591
 source:
   id: 37e216be-2247-47c3-9b6c-fc3a3c95386d
-version: "0.2.3"
+version: "0.2.4"
 name: Learn
 shorthand: lrn
 description: Pedagogically optimized educational content for teaching concepts
 dependencies:
-  "@nuucognition/flint": "^0.3"
+  "@nuucognition/flint": ""
 
 types:
   - name: Learning Report
